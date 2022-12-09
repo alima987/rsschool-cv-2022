@@ -2,7 +2,7 @@
 
 ## Contact Info:
 
-	* mobile phone: 8(778)729-78-36 
+	* mobile phone: 8(778)729-78-36 Telegram, Whatsapp
 
 	* email: alima996b@gmail.com
 
