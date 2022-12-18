@@ -41,7 +41,7 @@ function reverse(n) {
 
 ```
 
-## Work experience:
+## Work expirience:
 
 	*Accountant in construction company for 2 years
 
