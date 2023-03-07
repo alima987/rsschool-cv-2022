@@ -2,43 +2,46 @@
 
 ## Contact Info:
 
-	* mobile phone: 8(778)729-78-36 Telegram, Whatsapp app
+	* mobile phone: 8(778)729-78-36 Telegram, Whatsapp
 
 	* email: alima996b@gmail.com
 
 ## Personal Summary:
 
-   My one of the main aims, at this point, becoming professional Fronted-developer and having the opportunity to work and travel around the world.
+   My one of the main aims, at this point, becoming professional Fronted-developer and having the oppertunity to work and travel around the world.
 
 ## Skills:
 
 	* self-motivated,opened for new discoveries
 
-	* HTML
+	* HTML/CSS
 
 	* Visual Studio Code
 
 	* A minor experience in Javascript
 
 	* SQL (basic knowledge)
-	
-	* CSS
 
 
 ## Code examples:
 
 ```javascript
 
-function vowelOne(s) {
+function reverse(n) {
 
-    s = (s.replace(/[^aeiou]/gi,'0')).replace(/[aeiou]/gi,'1');
-	return s;
+    return parseInt(String(n)
+
+        .split("")
+
+        .reverse()
+
+        .join(""), 10);
 
 }
 
 ```
 
-## Work experience:
+## Work expirience:
 
 	*Accountant in construction company for 2 years
 
@@ -49,10 +52,6 @@ function vowelOne(s) {
 	* freeCodeCamp
 
 http://freecodecamp.org
-    
-	* RS School stage 0
-	
-https://rs.school/
 
 
 
