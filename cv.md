@@ -26,6 +26,8 @@
 	* A minor experience in Javascript
 
 	* SQL (basic knowledge)
+
+	* Git
 	
 	
 
@@ -50,6 +52,8 @@ function vowelOne(s) {
 
 
 ## Education: 
+  
+  ### Courses:
 
 	* freeCodeCamp
 
