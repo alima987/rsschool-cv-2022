@@ -6,6 +6,11 @@
 
 	* email: alima996b@gmail.com
 
+	* GitHub: alima987
+	
+	* Location: Aktau, Kazakhstan
+
+
 ## Personal Summary:
 
    My one of the main aims, at this point, becoming professional Fronted-developer and having the opportunity to work and travel around the world.
@@ -14,7 +19,7 @@
 
 	* self-motivated,opened for new discoveries
 
-	* HTML
+	* HTML/CSS
 
 	* Visual Studio Code
 
@@ -22,7 +27,7 @@
 
 	* SQL (basic knowledge)
 	
-	* CSS
+	
 
 
 ## Code examples:
