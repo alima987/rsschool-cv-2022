@@ -4,7 +4,7 @@
 
 	* mobile phone: 8(778)729-78-36 
 
-	* email: alima996b@gmail.com
+	* email: alima1996b@gmail.com
 
 ## Personal Summary:
 
@@ -52,6 +52,11 @@ function reverse(n) {
 	* freeCodeCamp
 
 http://freecodecamp.org
+        * RS School stage 0
+	* RS School stage 1
+ 
+https://rs.school/
+	
 
 
 
